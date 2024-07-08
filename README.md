@@ -1,4 +1,6 @@
 # Fabric Example Mod With YACL and Modmenu support
+- https://modrinth.com/mod/yacl
+- https://modrinth.com/mod/modmenu
 
 ## Setup
 
