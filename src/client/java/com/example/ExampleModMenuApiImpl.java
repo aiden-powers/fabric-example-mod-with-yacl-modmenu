@@ -9,7 +9,7 @@ import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.text.Text;
 
 public class ExampleModMenuApiImpl implements ModMenuApi {
-	private Boolean myBooleanOption;
+	private Boolean myBooleanOption = false;
 
 	@Override
 	public ConfigScreenFactory<?> getModConfigScreenFactory() {
